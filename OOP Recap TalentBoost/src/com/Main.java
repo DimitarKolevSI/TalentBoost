@@ -9,6 +9,7 @@ public class Main {
         System.out.println(s.getArea());
         System.out.println(r.getArea());
         System.out.println(c.getArea());
+        System.out.println(c.getArea());
         System.out.println("Done");
     }
 }
